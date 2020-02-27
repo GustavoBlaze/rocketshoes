@@ -15,7 +15,7 @@
 
 ## :rocket: Sobre o projeto
 
-O repositório conta com um projeto em ReactJs e outro React-Native para consumir uma API-REST fake e simular uma loja virtual que vende tênis.
+O repositório conta com um projeto em ReactJs e outro React-Native para consumir uma API-REST fake e simular uma loja virtual de venda de calçados.
 
 ### Iniciando
 1. `git clone git@github.com:GustavoBlaze/rocketshoes.git`
