@@ -1,10 +1,12 @@
 <h1 align="center">
     <img alt="RocketShoes" src="logo.png" width="200px" />
+    <br>
+    <br>
 </h1>
 
-<h3 align="center">
-  Rocketshoes: Um projeto Front-end e Mobile de um e-commerce
-</h3>
+<p align="center">
+  Um projeto Front-end e Mobile de um e-commerce fake.
+</p>
 
 <h1 align="center">
   <img height="400" src="rocketshoes.gif" alt="rocketshoes.gif">
