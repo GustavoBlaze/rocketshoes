@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  Um projeto Front-end e Mobile de um e-commerce de tênis.
+  Um projeto Front-end e Mobile de um e-commerce de venda de calçados.
 </p>
 
 <h1 align="center">
