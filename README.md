@@ -2,6 +2,7 @@
     <img alt="RocketShoes" src="logo.png"/>
     <br>
     <br>
+    RocketShoes
 </h1>
 
 <p align="center">
