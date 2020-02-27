@@ -32,7 +32,7 @@ O repositório conta com um projeto em ReactJs e outro React-Native para consumi
 1. `cd mobile`
 2. `yarn`
 3. `react-native start`
-4. `react-native run-android` ou `react-nativee run-ios`
+4. `react-native run-android` ou `react-native run-ios`
 
 ### Ferramentas utilizadas
 
