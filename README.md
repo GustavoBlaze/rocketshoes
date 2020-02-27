@@ -35,7 +35,7 @@ O repositório conta com um projeto em ReactJs e outro React-Native para consumi
 4. `react-native run-android` ou `react-native run-ios`
 
 ### Ferramentas utilizadas
-
+- ⚛️ **ReactJs** - A JavaScript library for building user interfaces
 - ⚛️ **React Native** - Um framework para criar apps nativos usando React.
 - ⚛️ **Styled Components** - Biblioteca Javascript pra estilizar componentes.
 - ⚛️ **Redux** - Biblioteca JavaScript de código aberto para gerenciar o estado do aplicativo.
