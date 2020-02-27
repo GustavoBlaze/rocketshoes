@@ -28,7 +28,7 @@ O repositório conta com um projeto em ReactJs e outro React-Native para consumi
 4. `json-server server.json -p 3333 -w -d 300`
 5. `yarn start`
 
-### Iniciando com o Mobile
+### Iniciando com o Mobile (Em construção)
 1. `cd mobile`
 2. `yarn`
 3. `react-native start`
