@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="RocketShoes" src="logo.png"/>
+    <img alt="RocketShoes" src="logo_2.png"/>
     <br>
     <br>
     RocketShoes
