@@ -18,7 +18,7 @@ export const Logo = styled.Image.attrs({
   height: 24px;
 `;
 
-export const CartContainer = styled(RectButton)`
+export const CartButton = styled(RectButton)`
   padding: 5px;
   display: flex;
   justify-content: center;
