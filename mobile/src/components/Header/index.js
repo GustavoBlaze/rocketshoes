@@ -1,19 +1,28 @@
 import React from 'react';
 import Icon from 'react-native-vector-icons/MaterialIcons';
+import PropTypes from 'prop-types';
 import { RectButton } from 'react-native-gesture-handler';
-import { Container, Logo, CartContainer, Counter } from './styles';
+import { Container, Logo, CartButton, Counter } from './styles';
 
-export default function Header() {
+function Header({ navigation }) {
   return (
     <Container>
-      <RectButton>
+      <RectButton onPress={() => navigation.navigate('Main')}>
         <Logo />
       </RectButton>
 
-      <CartContainer>
+      <CartButton onPress={() => navigation.navigate('Cart')}>
         <Icon name="shopping-cart" size={24} color="#FFF" />
         <Counter>3</Counter>
-      </CartContainer>
+      </CartButton>
     </Container>
   );
 }
+
+Header.propTypes = {
+  navigation: PropTypes.shape({
+    navigate: PropTypes.func,
+  }).isRequired,
+};
+
+export default Header;
