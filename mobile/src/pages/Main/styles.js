@@ -1,5 +1,5 @@
 import styled from 'styled-components/native';
-import { Dimensions } from 'react-native';
+import { Dimensions, ActivityIndicator } from 'react-native';
 import { RectButton } from 'react-native-gesture-handler';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 
@@ -7,18 +7,31 @@ const windowWidth = Dimensions.get('window').width;
 const cardWidth = (windowWidth - 40) / 2 - 4;
 const thumbnailWidth = cardWidth;
 
+export const Loading = styled(ActivityIndicator).attrs({
+  size: 45,
+  color: '#cacaca',
+})`
+  flex: 1;
+  justify-content: center;
+  align-items: center;
+  background: #191920;
+`;
+
 export const Container = styled.View`
   background: #191920;
   flex: 1;
   padding: 20px;
+  padding-top: 10px;
   flex-direction: column;
 `;
 
 export const PageName = styled.Text`
   font-size: 16px;
   color: #cacaca;
-  margin-top: -5px;
+  padding-bottom: 10px;
   margin-bottom: 5px;
+  border-bottom-width: 1px;
+  border-bottom-color: #cacaca;
 `;
 
 export const ProductList = styled.FlatList.attrs({
