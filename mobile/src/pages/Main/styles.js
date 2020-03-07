@@ -20,18 +20,9 @@ export const Loading = styled(ActivityIndicator).attrs({
 export const Container = styled.View`
   background: #191920;
   flex: 1;
-  padding: 20px;
-  padding-top: 10px;
+  padding: 10px 20px;
+  padding-bottom: 5px;
   flex-direction: column;
-`;
-
-export const PageName = styled.Text`
-  font-size: 16px;
-  color: #cacaca;
-  padding-bottom: 10px;
-  margin-bottom: 5px;
-  border-bottom-width: 1px;
-  border-bottom-color: #cacaca;
 `;
 
 export const ProductList = styled.FlatList.attrs({
@@ -40,11 +31,12 @@ export const ProductList = styled.FlatList.attrs({
 })`
   margin-left: -4px;
   margin-right: -4px;
+  padding-top: 7px;
 `;
 
 export const ProductContainer = styled.View`
   width: 50%;
-  padding: 5px 4px;
+  padding: 4px 4px;
 `;
 
 export const Product = styled.View`
@@ -127,4 +119,5 @@ export const ButtonText = styled.Text`
   text-align: center;
   flex: 1;
   text-transform: uppercase;
+  font-weight: bold;
 `;
