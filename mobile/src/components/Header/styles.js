@@ -10,6 +10,8 @@ export const Container = styled.View`
   padding-bottom: 10px;
 `;
 
+export const LogoButton = styled.TouchableOpacity``;
+
 export const Logo = styled.Image.attrs({
   source: logo,
   resizeMode: 'cover',
@@ -18,7 +20,7 @@ export const Logo = styled.Image.attrs({
   height: 24px;
 `;
 
-export const CartButton = styled(RectButton)`
+export const CartButton = styled.TouchableOpacity`
   padding: 5px;
   display: flex;
   justify-content: center;
