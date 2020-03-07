@@ -37,5 +37,6 @@ module.exports = {
     'react/state-in-constructor': 'off',
     'react/jsx-props-no-spreading': 'off',
     'no-param-reassign': 'off',
+    'react/forbid-prop-types': 'off'
   },
 };
