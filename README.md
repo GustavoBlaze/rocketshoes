@@ -40,9 +40,9 @@ O objetivo final deste projeto era botar em prática todo o conhecimento sobre R
 4. `react-native start`
 5. `react-native run-android` ou `react-native run-ios`
 
-### 🧰 Ferramentas utilizadas
+### 🧰  Ferramentas utilizadas
 - ⚛️ **ReactJs** - Biblioteca Javascript para criar interfaces de usuário.
 - ⚛️ **React Native** - Framework para criar apps nativos usando React.
 - 💅 **Styled Components** - Biblioteca Javascript pra estilizar componentes.
 - 🔁 **Redux** - Biblioteca JavaScript de código aberto para gerenciar o estado do aplicativo.
-- 🔂  **Redux Saga** - Biblioteca Javascript que torna os efeitos colaterais do aplicativo mais faceis de gerenciar.
+- 🔂 **Redux Saga** - Biblioteca Javascript que torna os efeitos colaterais do aplicativo mais faceis de gerenciar.
