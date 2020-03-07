@@ -9,11 +9,10 @@
   Um projeto Front-end e Mobile de um e-commerce de venda de calçados.
 </p>
 
-<h1 align="center">
-  <img height="400" src="rocketshoes.gif" alt="rocketshoes.gif">
-    <img src="rocketshoes.gif" alt="demo-web" height="425">
+<div>
+  <img src="rocketshoes.gif" alt="demo-web" height="425">
   <img src="mobile_demo.gif" alt="demo-mobile" height="425">
-</h1>
+</div>
 
 ## :scroll: Sobre
 
