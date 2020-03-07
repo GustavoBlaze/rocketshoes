@@ -10,8 +10,8 @@
 </p>
 
 <div>
-  <img src="rocketshoes.gif" alt="demo-web" height="400">
-  <img src="mobile_demo.gif" alt="demo-mobile" height="400">
+  <img src="rocketshoes.gif" alt="demo-web" height="365">
+  <img src="mobile_demo.gif" alt="demo-mobile" height="365">
 </div>
 
 ## :scroll: Sobre
