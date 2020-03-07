@@ -11,11 +11,13 @@
 
 <h1 align="center">
   <img height="400" src="rocketshoes.gif" alt="rocketshoes.gif">
+    <img src="rocketshoes.gif" alt="demo-web" height="425">
+  <img src="mobile_demo.gif" alt="demo-mobile" height="425">
 </h1>
 
 ## :scroll: Sobre
 
-O repositório conta com um projeto em ReactJs e outro React-Native para consumir uma API-REST fake e simular uma loja virtual de venda de calçados.
+O repositório conta com um projeto frontend e um mobile para consumir uma API-REST fake e simular uma loja virtual de venda de calçados.
 
 Tanto a versão mobile e frontend conta uma tela listagem de produtos para adicionar no carrinho e uma tela para exibir mais detalhes dos produtos escolhidos e do carrinho.
 
