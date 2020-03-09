@@ -33,12 +33,12 @@ O objetivo final deste projeto era botar em prática todo o conhecimento sobre R
 4. `json-server server.json -p 3333 -w -d 300`
 5. `yarn start`
 
-### 📱Iniciando com o Mobile 
+### 📱Iniciando com o Mobile (Apenas Android)
 1. `cd mobile`
 2. `yarn`
 3. `json-server server.json -p 3333 -w -d 300`
 4. `react-native start`
-5. `react-native run-android` ou `react-native run-ios`
+5. `react-native run-android`
 
 ### 🧰  Ferramentas utilizadas
 - ⚛️ **ReactJs** - Biblioteca Javascript para criar interfaces de usuário.
