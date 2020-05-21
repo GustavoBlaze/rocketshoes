@@ -6,7 +6,7 @@
 </h1>
 
 <p align="center">
-  Um projeto Front-end e Mobile de um e-commerce de venda de calçados.
+    🛒 Um projeto Front-end e Mobile de um e-commerce de venda de calçados. Feito em ReactJS e React-Native
 </p>
 
 <div>
