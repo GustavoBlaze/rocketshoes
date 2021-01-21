@@ -12,7 +12,7 @@
   "dependencies": {
     "@react-native-community/masked-view": "^0.1.6",
     "axios": "^0.19.2",
-    "immer": "^5.3.6",
+    "immer": "^8.0.1",
     "intl": "^1.2.5",
     "prop-types": "^15.7.2",
     "react": "16.9.0",
